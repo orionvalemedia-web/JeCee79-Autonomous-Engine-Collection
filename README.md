@@ -11,7 +11,7 @@ Drag the model into Workspace and press Play. That is the whole setup. Each mode
 everything it needs inside itself, so it works the moment it lands in your game, and it
 never breaks because something outside it changed.
 
-All models are on the [JeCee79 Creator Store page](https://create.roblox.com/store/creator/2604844872).
+All models are on the [JeCee79 Creator Store page]https://create.roblox.com/store/models?creatorName=JeCee79
 
 ## The collection
 
