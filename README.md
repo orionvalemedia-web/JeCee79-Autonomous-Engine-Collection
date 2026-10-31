@@ -26,6 +26,7 @@ All models are on the [JeCee79 Creator Store page]https://create.roblox.com/stor
 | [Autonomous Logistics and Supply Chain](a-global-infrastructure-systems/logistics-supply-chain/README.md) | $29.99 | Cargo that moves itself between sites, so your world has a working economy behind it. |
 | [Hollowmere Freight Depot](a-global-infrastructure-systems/freight-depot/README.md) | Coming soon | A freight yard with trucks and a warehouse that keep working without a player. |
 | [Fighter Jet War Simulator and Military Airbase](a-global-infrastructure-systems/military-airbase/README.md) | $49.99 (simulator) / $5.99 (plane pack) / airbase coming soon | An air war that runs itself, plus 8 aircraft that players can fly and a full airbase to launch from. |
+| [Meridian Airport](a-global-infrastructure-systems/meridian-airport/README.md) | Coming soon | An airport that runs on a timetable: planes land and leave one at a time while crew and passengers work around them. |
 
 ### Civic and Justice Simulation
 
@@ -65,6 +66,22 @@ All models are on the [JeCee79 Creator Store page]https://create.roblox.com/stor
 | [Zombie Survival Game Kit: Hollowfen](e-game-modes-and-attractions/zombie-survival/README.md) | $39.99 | A full horde defence game mode with waves, five zombie types, gates, turrets and boss fights. |
 | [Fully Functional Ferris Wheel](e-game-modes-and-attractions/ferris-wheel/README.md) | $34.99 | A ferris wheel that turns, stops for boarding and gives players a real ride. |
 | [Autonomous Sports Stadiums](e-game-modes-and-attractions/sports-stadiums/README.md) | $14.99 to $16.99 each | Four venues that run their own games: soccer, baseball, bowling and football. |
+| [Skyreach Adventure Park](e-game-modes-and-attractions/skyreach-adventure-park/README.md) | Coming soon | A huge modern theme park with rides, a railway, Wildgrove Zoo and guests who live by their needs. |
+| [Grand Jubilee Circus](e-game-modes-and-attractions/grand-jubilee-circus/README.md) | Coming soon | A complete 1900s travelling circus with a full big top show on repeat. |
+| [Hollowmoon Carnival](e-game-modes-and-attractions/hollowmoon-carnival/README.md) | Coming soon | A moonlit gothic carnival. Eerie, never gory. |
+| [NovaSphere Circus](e-game-modes-and-attractions/novasphere-circus/README.md) | Coming soon | A modern dome circus with a programmable stage and a full light show. |
+| [Royal Tournament Faire](e-game-modes-and-attractions/royal-tournament-faire/README.md) | Coming soon | A complete medieval faire with a walkable castle and a live jousting tournament. |
+| [Imperial Games Festival](e-game-modes-and-attractions/imperial-games-festival/README.md) | Coming soon | A Roman festival around a full colosseum, ending in a three-lap chariot race. |
+| [Skullhaven Pirate Festival](e-game-modes-and-attractions/skullhaven-pirate-festival/README.md) | Coming soon | A pirate harbor festival where two galleons fight a cannon battle in front of the crowd. |
+| [Skull Cove Pirate Town](e-game-modes-and-attractions/skull-cove-pirate-town/README.md) | Coming soon | A large walled pirate town on the coast with docks, a fishing port, a lighthouse and a dungeon. |
+
+### NPCs and Enemies
+
+| System | Price | What it does |
+|---|---|---|
+| [NPC Cast](f-npcs-and-enemies/npc-cast/README.md) | Coming soon | 100 animated NPCs in five groups, each with their own outfit, tools and job animation. |
+| [NPC Workforce System](f-npcs-and-enemies/npc-workforce/README.md) | Coming soon | A staffing engine for any game: your buildings define the jobs and the engine supplies the workers. |
+| [Enemy Cast](f-npcs-and-enemies/enemy-cast/README.md) | Coming soon | 100 enemy types with their own bodies, attacks and spells, built from parts with no uploads. |
 
 ---
 
