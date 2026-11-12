@@ -83,6 +83,32 @@ All models are on the [JeCee79 Creator Store page]https://create.roblox.com/stor
 | [NPC Workforce System](f-npcs-and-enemies/npc-workforce/README.md) | Coming soon | A staffing engine for any game: your buildings define the jobs and the engine supplies the workers. |
 | [Enemy Cast](f-npcs-and-enemies/enemy-cast/README.md) | Coming soon | 100 enemy types with their own bodies, attacks and spells, built from parts with no uploads. |
 
+### Worlds and Kingdoms
+
+| System | Price | What it does |
+|---|---|---|
+| [Living Medieval Kingdom](g-worlds-and-kingdoms/medieval-kingdom/README.md) | Coming soon | A whole medieval kingdom in one model: a walled capital, villages, people with daily lives, an economy and a daily joust. |
+| [Haunted Kingdom](g-worlds-and-kingdoms/haunted-kingdom/README.md) | Coming soon | The medieval kingdom turned dark: dead trees, graveyards, moonlight and fog, with its people still living their lives. |
+| [The Fallen Frontier](g-worlds-and-kingdoms/fallen-frontier/README.md) | Coming soon | A wasteland open-world map in one model: the town of Haven and six regions to explore. |
+| [Autonomous Military Warfare RPG](g-worlds-and-kingdoms/military-warfare-rpg/README.md) | Coming soon | A battlefield that fights its own war: jets in the air, troops on the ground and control points that change hands. |
+| [Ashen Legion - Fantasy Autobattler](g-worlds-and-kingdoms/ashen-legion/README.md) | Coming soon | A full fantasy autobattler game: build an army of 20 classes, place them on a grid and watch them fight. |
+| [Supermax Prison](g-worlds-and-kingdoms/supermax-prison/README.md) | Coming soon | A twelve-level prison built down a silo, with inmates and guards that run it. |
+
+### Kits, Weapons and Companions
+
+| System | Price | What it does |
+|---|---|---|
+| [Autonomous Fantasy Squad](h-kits-weapons-and-companions/squad-system/README.md) | Coming soon | Companions that follow you and fight for you: 20 fantasy classes, each with 12 abilities. |
+| [Autonomous Military Squad](h-kits-weapons-and-companions/military-squad/README.md) | Coming soon | A modern military squad that fights beside the player: 20 soldier classes with 242 abilities. |
+| [Autonomous Wasteland Squad](h-kits-weapons-and-companions/wasteland-squad/README.md) | Coming soon | A crew of wasteland survivors that fights beside the player: 20 classes, from Scavenger to Warlord. |
+| [Single Fantasy Class Companions](h-kits-weapons-and-companions/fantasy-single-classes/README.md) | Coming soon | Each of the 20 fantasy classes sold on its own as a complete companion, with its own abilities, spell effects and levels. |
+| [Military Arsenal](h-kits-weapons-and-companions/military-arsenal/README.md) | Coming soon | Twenty weapon models that find and fire at targets on their own, plus target vehicles to practise on. |
+| [Medieval Siege and Defense Machines](h-kits-weapons-and-companions/siege-engines/README.md) | Coming soon | Twelve medieval siege kits, from catapults to battering rams, each with targets to hit. |
+| [Working Restaurant Kit](h-kits-weapons-and-companions/restaurant-kit/README.md) | Coming soon | Ten restaurants that run themselves: fine dining, burger, chicken, pizza, taco, Chinese, barbecue, sushi, Indian and cafe. |
+| [Sci-Fi Room Kit](h-kits-weapons-and-companions/scifi-kit/README.md) | Coming soon | Six animated sci-fi models: reactor room, server room, control bridge, console, plasma generator and pipe network. |
+| [Universal Autonomous Factory](h-kits-weapons-and-companions/universal-factory/README.md) | Coming soon | A factory kit where belts, machines and storage connect themselves and make products from recipes. |
+| [Village Kits Builder](h-kits-weapons-and-companions/village-kits/README.md) | Coming soon | A builder that makes themed villages, dungeons, industry and transport, with 32 themes to choose from. |
+
 ---
 
 This repository holds documentation only. The models themselves are sold on the Roblox Creator Store.
