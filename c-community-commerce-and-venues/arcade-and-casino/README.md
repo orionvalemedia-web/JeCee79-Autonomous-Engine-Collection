@@ -4,7 +4,7 @@
 
 **100% Zero-Dependency, True Drop-In-And-Play Setup. No Requires, No External API Packets.**
 
-**Price:** Coming soon  
+**Price:** Available on the Creator Store - $29.99 (casino) / arcade coming soon  
 **Category:** Community, Commerce and Venues  
 **Store:** [JeCee79 on the Roblox Creator Store](https://create.roblox.com/store/creator/2604844872)
 

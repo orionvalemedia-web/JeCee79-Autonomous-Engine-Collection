@@ -53,7 +53,7 @@ All models are on the [JeCee79 Creator Store page](https://create.roblox.com/sto
 | [The Ashdown Hotel](c-community-commerce-and-venues/ashdown-hotel/README.md) | Coming soon | A four-storey hotel with staff: front desk, porter, housekeeping and a bar, plus a working lift. |
 | [Meridian Filling Station](c-community-commerce-and-venues/filling-station/README.md) | Coming soon | A gas station where cars pull in, an attendant fills them up and takes the money, and a clerk runs the shop. |
 | [Greengate Market](c-community-commerce-and-venues/greengate-market/README.md) | Coming soon | A supermarket with a cashier, a shelf stacker and a baker, and shoppers who fill baskets and queue. |
-| [The Starlite Arcade and Meridian Casino](c-community-commerce-and-venues/arcade-and-casino/README.md) | Coming soon | A seafront arcade with three working machines and a prize counter, and a casino with slots, roulette, blackjack and a cashier. |
+| [The Starlite Arcade and Meridian Casino](c-community-commerce-and-venues/arcade-and-casino/README.md) | Available on the Creator Store - $29.99 (casino) / arcade coming soon | A seafront arcade with three working machines and a prize counter, and a casino with slots, roulette, blackjack and a cashier. |
 
 ### Resource Camps and Farming
 
