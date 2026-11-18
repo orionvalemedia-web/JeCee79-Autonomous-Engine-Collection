@@ -4,7 +4,7 @@
 
 **100% Zero-Dependency, True Drop-In-And-Play Setup. No Requires, No External API Packets.**
 
-**Price:** Coming soon  
+**Price:** Available on the Creator Store - $24.99 (all 100) / $13.99 to $19.99 (group packs) / $2.99 each  
 **Category:** NPCs and Enemies  
 **Store:** [JeCee79 on the Roblox Creator Store](https://create.roblox.com/store/creator/2604844872)
 

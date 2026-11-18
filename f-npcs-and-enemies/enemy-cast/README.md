@@ -1,10 +1,10 @@
 # Enemy Cast
 
-> 100 enemy types with their own bodies, attacks and spells, built from parts with no uploads.
+> 200 enemies and bosses with their own bodies, attacks and spells, built from parts with no uploads.
 
 **100% Zero-Dependency, True Drop-In-And-Play Setup. No Requires, No External API Packets.**
 
-**Price:** Coming soon  
+**Price:** Available on the Creator Store - $39.99  
 **Category:** NPCs and Enemies  
 **Store:** [JeCee79 on the Roblox Creator Store](https://create.roblox.com/store/creator/2604844872)
 

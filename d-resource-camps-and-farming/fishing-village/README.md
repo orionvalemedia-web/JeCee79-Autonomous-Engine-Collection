@@ -4,7 +4,7 @@
 
 **100% Zero-Dependency, True Drop-In-And-Play Setup. No Requires, No External API Packets.**
 
-**Price:** Coming soon  
+**Price:** Available on the Creator Store - $17.99  
 **Category:** Resource Camps and Farming  
 **Store:** [JeCee79 on the Roblox Creator Store](https://create.roblox.com/store/creator/2604844872)
 

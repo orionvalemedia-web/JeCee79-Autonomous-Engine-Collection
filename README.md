@@ -5,13 +5,20 @@ and go, vehicles that drive, and money that changes hands.
 
 **100% Zero-Dependency, True Drop-In-And-Play Setup. No Requires, No External API Packets.**
 
+## Official Links and Showcases
+
+| | |
+|---|---|
+| **Roblox Creator Store** | [JeCee79 models on the Creator Store](https://create.roblox.com/store/models?creatorName=JeCee79) |
+| **YouTube** | [JeCee79 Roblox Showcase channel](https://www.youtube.com/@JeCee79) - videos of the models running |
+
 ## The idea
 
 Drag the model into Workspace and press Play. That is the whole setup. Each model carries
 everything it needs inside itself, so it works the moment it lands in your game, and it
 never breaks because something outside it changed.
 
-All models are on the [JeCee79 Creator Store page]https://create.roblox.com/store/models?creatorName=JeCee79
+All models are on the [JeCee79 Creator Store page](https://create.roblox.com/store/models?creatorName=JeCee79)
 
 ## The collection
 
@@ -22,11 +29,11 @@ All models are on the [JeCee79 Creator Store page]https://create.roblox.com/stor
 | [Working AI Traffic System](a-global-infrastructure-systems/ai-traffic-system/README.md) | $49.99 | City traffic that drives itself. Cars follow the road network, obey junction rules and keep moving with no setup. |
 | [Working Power Grid For Your Game](a-global-infrastructure-systems/power-grid/README.md) | $49.99 | An electrical grid that actually carries power: plant, substations, poles and the lights at the end of the line. |
 | [Drop In Play Full Subway System](a-global-infrastructure-systems/subway-system/README.md) | $39.99 | A complete underground metro: stations, gates and trains that arrive and depart on their own. |
-| [Complete Railway System](a-global-infrastructure-systems/railway-system/README.md) | $29.99 | A mainline network with 3 lines, 7 trains and 10 stations, all running on their own. |
+| [Complete Railway System](a-global-infrastructure-systems/railway-system/README.md) | $29.99 (trains on their own $12.99 to $16.99) | A mainline network with 3 lines, 7 trains and 10 stations, all running on their own. |
 | [Autonomous Logistics and Supply Chain](a-global-infrastructure-systems/logistics-supply-chain/README.md) | $29.99 | Cargo that moves itself between sites, so your world has a working economy behind it. |
 | [Hollowmere Freight Depot](a-global-infrastructure-systems/freight-depot/README.md) | Coming soon | A freight yard with trucks and a warehouse that keep working without a player. |
 | [Fighter Jet War Simulator and Military Airbase](a-global-infrastructure-systems/military-airbase/README.md) | $49.99 (simulator) / $5.99 (plane pack) / airbase coming soon | An air war that runs itself, plus 8 aircraft that players can fly and a full airbase to launch from. |
-| [Meridian Airport](a-global-infrastructure-systems/meridian-airport/README.md) | Coming soon | An airport that runs on a timetable: planes land and leave one at a time while crew and passengers work around them. |
+| [Meridian Airport](a-global-infrastructure-systems/meridian-airport/README.md) | Available on the Creator Store - $39.99 | An airport that runs on a timetable: planes land and leave one at a time while crew and passengers work around them. |
 
 ### Civic and Justice Simulation
 
@@ -53,11 +60,11 @@ All models are on the [JeCee79 Creator Store page]https://create.roblox.com/stor
 | System | Price | What it does |
 |---|---|---|
 | [Working Autonomous Farm and Animal Pens](d-resource-camps-and-farming/autonomous-farm/README.md) | $49.99 (farm) / $29.99 (all pens) / $5.99 each pen | A farm that grows itself, plus eight working animal pens: cow, pig, goat, sheep, horse, chicken, duck and rabbit. |
-| [Ironvale Mining Camp](d-resource-camps-and-farming/mining-camp/README.md) | Coming soon | An open-pit mine with miners who dig, haul and store the ore. |
-| [Thornwood Lumber Camp](d-resource-camps-and-farming/lumber-camp/README.md) | Coming soon | A standing forest with loggers and a log tramway. |
-| [Elkhollow Hunting Grounds](d-resource-camps-and-farming/hunting-grounds/README.md) | Coming soon | Wild country with animals and hunters working it. |
-| [Saltmere Fishing Village](d-resource-camps-and-farming/fishing-village/README.md) | Coming soon | A harbour village with fishermen at work and spots where players can fish. |
-| [Wildgrove Zoo](d-resource-camps-and-farming/wildgrove-zoo/README.md) | Coming soon | A zoo that runs itself: animals in their enclosures, keepers at work and visitors walking round. |
+| [Ironvale Mining Camp](d-resource-camps-and-farming/mining-camp/README.md) | Available on the Creator Store - $17.99 | An open-pit mine with miners who dig, haul and store the ore. |
+| [Thornwood Lumber Camp](d-resource-camps-and-farming/lumber-camp/README.md) | Available on the Creator Store - $17.99 | A standing forest with loggers and a log tramway. |
+| [Elkhollow Hunting Grounds](d-resource-camps-and-farming/hunting-grounds/README.md) | Available on the Creator Store - $17.99 | Wild country with animals and hunters working it. |
+| [Saltmere Fishing Village](d-resource-camps-and-farming/fishing-village/README.md) | Available on the Creator Store - $17.99 | A harbour village with fishermen at work and spots where players can fish. |
+| [Wildgrove Zoo](d-resource-camps-and-farming/wildgrove-zoo/README.md) | Available on the Creator Store - $49.99 | A zoo that runs itself: animals in their enclosures, keepers at work and visitors walking round. |
 
 ### Game Modes and Attractions
 
@@ -73,24 +80,24 @@ All models are on the [JeCee79 Creator Store page]https://create.roblox.com/stor
 | [Royal Tournament Faire](e-game-modes-and-attractions/royal-tournament-faire/README.md) | Coming soon | A complete medieval faire with a walkable castle and a live jousting tournament. |
 | [Imperial Games Festival](e-game-modes-and-attractions/imperial-games-festival/README.md) | Coming soon | A Roman festival around a full colosseum, ending in a three-lap chariot race. |
 | [Skullhaven Pirate Festival](e-game-modes-and-attractions/skullhaven-pirate-festival/README.md) | Coming soon | A pirate harbor festival where two galleons fight a cannon battle in front of the crowd. |
-| [Skull Cove Pirate Town](e-game-modes-and-attractions/skull-cove-pirate-town/README.md) | Coming soon | A large walled pirate town on the coast with docks, a fishing port, a lighthouse and a dungeon. |
+| [Skull Cove Pirate Town](e-game-modes-and-attractions/skull-cove-pirate-town/README.md) | Available on the Creator Store - $29.99 (lighthouse on its own $3.99) | A large walled pirate town on the coast with docks, a fishing port, a lighthouse and a dungeon. |
 
 ### NPCs and Enemies
 
 | System | Price | What it does |
 |---|---|---|
-| [NPC Cast](f-npcs-and-enemies/npc-cast/README.md) | Coming soon | 100 animated NPCs in five groups, each with their own outfit, tools and job animation. |
+| [NPC Cast](f-npcs-and-enemies/npc-cast/README.md) | Available on the Creator Store - $24.99 (all 100) / $13.99 to $19.99 (group packs) / $2.99 each | 100 animated NPCs in five groups, each with their own outfit, tools and job animation. |
 | [NPC Workforce System](f-npcs-and-enemies/npc-workforce/README.md) | Coming soon | A staffing engine for any game: your buildings define the jobs and the engine supplies the workers. |
-| [Enemy Cast](f-npcs-and-enemies/enemy-cast/README.md) | Coming soon | 100 enemy types with their own bodies, attacks and spells, built from parts with no uploads. |
+| [Enemy Cast](f-npcs-and-enemies/enemy-cast/README.md) | Available on the Creator Store - $39.99 | 200 enemies and bosses with their own bodies, attacks and spells, built from parts with no uploads. |
 
 ### Worlds and Kingdoms
 
 | System | Price | What it does |
 |---|---|---|
-| [Living Medieval Kingdom](g-worlds-and-kingdoms/medieval-kingdom/README.md) | Coming soon | A whole medieval kingdom in one model: a walled capital, villages, people with daily lives, an economy and a daily joust. |
+| [Living Medieval Kingdom](g-worlds-and-kingdoms/medieval-kingdom/README.md) | Available on the Creator Store - $49.99 | A whole medieval kingdom in one model: a walled capital, villages, people with daily lives, an economy and a daily joust. |
 | [Haunted Kingdom](g-worlds-and-kingdoms/haunted-kingdom/README.md) | Coming soon | The medieval kingdom turned dark: dead trees, graveyards, moonlight and fog, with its people still living their lives. |
 | [The Fallen Frontier](g-worlds-and-kingdoms/fallen-frontier/README.md) | Coming soon | A wasteland open-world map in one model: the town of Haven and six regions to explore. |
-| [Autonomous Military Warfare RPG](g-worlds-and-kingdoms/military-warfare-rpg/README.md) | Coming soon | A battlefield that fights its own war: jets in the air, troops on the ground and control points that change hands. |
+| [Autonomous Military Warfare RPG](g-worlds-and-kingdoms/military-warfare-rpg/README.md) | Available on the Creator Store - $49.99 | A battlefield that fights its own war: jets in the air, troops on the ground and control points that change hands. |
 | [Ashen Legion - Fantasy Autobattler](g-worlds-and-kingdoms/ashen-legion/README.md) | Coming soon | A full fantasy autobattler game: build an army of 20 classes, place them on a grid and watch them fight. |
 | [Supermax Prison](g-worlds-and-kingdoms/supermax-prison/README.md) | Coming soon | A twelve-level prison built down a silo, with inmates and guards that run it. |
 
@@ -98,16 +105,23 @@ All models are on the [JeCee79 Creator Store page]https://create.roblox.com/stor
 
 | System | Price | What it does |
 |---|---|---|
-| [Autonomous Fantasy Squad](h-kits-weapons-and-companions/squad-system/README.md) | Coming soon | Companions that follow you and fight for you: 20 fantasy classes, each with 12 abilities. |
+| [Autonomous Fantasy Squad](h-kits-weapons-and-companions/squad-system/README.md) | Available on the Creator Store - $34.99 | Companions that follow you and fight for you: 20 fantasy classes, each with 12 abilities. |
 | [Autonomous Military Squad](h-kits-weapons-and-companions/military-squad/README.md) | Coming soon | A modern military squad that fights beside the player: 20 soldier classes with 242 abilities. |
 | [Autonomous Wasteland Squad](h-kits-weapons-and-companions/wasteland-squad/README.md) | Coming soon | A crew of wasteland survivors that fights beside the player: 20 classes, from Scavenger to Warlord. |
 | [Single Fantasy Class Companions](h-kits-weapons-and-companions/fantasy-single-classes/README.md) | Coming soon | Each of the 20 fantasy classes sold on its own as a complete companion, with its own abilities, spell effects and levels. |
-| [Military Arsenal](h-kits-weapons-and-companions/military-arsenal/README.md) | Coming soon | Twenty weapon models that find and fire at targets on their own, plus target vehicles to practise on. |
+| [Military Arsenal](h-kits-weapons-and-companions/military-arsenal/README.md) | Available on the Creator Store - $7.99 each | Twenty-six weapon models, sold one at a time, that find and fire at targets on their own, plus target vehicles to practise on. |
 | [Medieval Siege and Defense Machines](h-kits-weapons-and-companions/siege-engines/README.md) | Coming soon | Twelve medieval siege kits, from catapults to battering rams, each with targets to hit. |
 | [Working Restaurant Kit](h-kits-weapons-and-companions/restaurant-kit/README.md) | Coming soon | Ten restaurants that run themselves: fine dining, burger, chicken, pizza, taco, Chinese, barbecue, sushi, Indian and cafe. |
-| [Sci-Fi Room Kit](h-kits-weapons-and-companions/scifi-kit/README.md) | Coming soon | Six animated sci-fi models: reactor room, server room, control bridge, console, plasma generator and pipe network. |
-| [Universal Autonomous Factory](h-kits-weapons-and-companions/universal-factory/README.md) | Coming soon | A factory kit where belts, machines and storage connect themselves and make products from recipes. |
-| [Village Kits Builder](h-kits-weapons-and-companions/village-kits/README.md) | Coming soon | A builder that makes themed villages, dungeons, industry and transport, with 32 themes to choose from. |
+| [Sci-Fi Room Kit](h-kits-weapons-and-companions/scifi-kit/README.md) | Available on the Creator Store - $5.99 to $10.99 each | Six animated sci-fi models: reactor room, server room, control bridge, console, plasma generator and pipe network. |
+| [Universal Autonomous Factory](h-kits-weapons-and-companions/universal-factory/README.md) | Available on the Creator Store - $29.99 | A factory kit where belts, machines and storage connect themselves and make products from recipes. |
+| [Village Kits Builder](h-kits-weapons-and-companions/village-kits/README.md) | Available on the Creator Store - $7.99 to $9.99 per kit / $29.99 full villages with dungeon, train and power | A builder that makes themed villages, dungeons, industry and transport, with 32 themes to choose from. |
+| [Themed Dungeons](h-kits-weapons-and-companions/themed-dungeons/README.md) | Available on the Creator Store - $11.99 each | Dungeons of 25 rooms each, with enemies, in themes from Haunted Catacombs to Candy Caverns. 13 are on the store now and more are being built. |
+| [Tower Defense Kit](h-kits-weapons-and-companions/tower-defense-kit/README.md) | Available on the Creator Store - $49.99 | A complete tower defense game in one model: waves, towers and upgrades. More stages are being built. |
+| [Crafting Stations](h-kits-weapons-and-companions/crafting-stations/README.md) | Available on the Creator Store - $4.99 to $5.99 each | Seventeen crafting stations, most with 100 working recipes: blacksmith, alchemy, cooking, tailoring, enchanting and more. |
+| [Prop and Theme Packs](h-kits-weapons-and-companions/prop-packs/README.md) | Available on the Creator Store - $4.99 to $12.99 each | Themed building and prop packs: farm, forge, dairy, beekeeper, cemetery, apothecary, industrial, warehouse, street, survival, a 240-piece modern interiors pack and more. |
+| [Road and Traffic Kits](h-kits-weapons-and-companions/road-kits/README.md) | Available on the Creator Store - $3.99 each | Road pieces, road signs and working traffic signals. |
+| [Working Elevator](h-kits-weapons-and-companions/working-elevator/README.md) | Free on the Creator Store | A four-floor elevator with call buttons. |
+| [Studio Plugins](h-kits-weapons-and-companions/studio-plugins/README.md) | Available on the Creator Store - free to $49.99 | Tools for Roblox Studio: game designer, quest generator, village maker, workers, monetization, and everyday helpers like batch rename and place auditor. |
 
 ---
 

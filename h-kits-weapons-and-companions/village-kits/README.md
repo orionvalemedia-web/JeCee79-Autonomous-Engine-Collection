@@ -4,7 +4,7 @@
 
 **100% Zero-Dependency, True Drop-In-And-Play Setup. No Requires, No External API Packets.**
 
-**Price:** Coming soon  
+**Price:** Available on the Creator Store - $7.99 to $9.99 per kit / $29.99 full villages with dungeon, train and power  
 **Category:** Kits, Weapons and Companions  
 **Store:** [JeCee79 on the Roblox Creator Store](https://create.roblox.com/store/creator/2604844872)
 

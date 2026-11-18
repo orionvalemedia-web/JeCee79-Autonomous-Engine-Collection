@@ -1,10 +1,10 @@
 # Military Arsenal
 
-> Twenty weapon models that find and fire at targets on their own, plus target vehicles to practise on.
+> Twenty-six weapon models, sold one at a time, that find and fire at targets on their own, plus target vehicles to practise on.
 
 **100% Zero-Dependency, True Drop-In-And-Play Setup. No Requires, No External API Packets.**
 
-**Price:** Coming soon  
+**Price:** Available on the Creator Store - $7.99 each  
 **Category:** Kits, Weapons and Companions  
 **Store:** [JeCee79 on the Roblox Creator Store](https://create.roblox.com/store/creator/2604844872)
 
